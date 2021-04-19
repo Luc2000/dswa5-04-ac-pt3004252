@@ -1,0 +1,22 @@
+{
+  "name": "aula_01",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Daniel <d.soares@aluno.ifsp.edu.br>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.8.2",
+    "angular-route": "^1.8.2",
+    "bootstrap": "^4.6.0"
+  }
+}
